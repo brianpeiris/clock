@@ -1,4 +1,4 @@
 clock
 =====
 
-http://brian.peiris.name/clock/
+http://brian.peiris.io/clock/
